@@ -1,0 +1,3 @@
+Window -> Preferences -> Java/Editor/Content Assist
+
+.(abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
