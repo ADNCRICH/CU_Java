@@ -46,3 +46,6 @@ Abstract
 1.public abstract
 2.[Method](); -> child class extend to their different usage
 ----------------------------------------------------------------------------------------
+Add javaFX
+JRE system library > Properties > Installed JRE > Add many Jars. and vm: --module-path C:\Users\Windows\eclipse\javafx-sdk-18\lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media
+----------------------------------------------------------------------------------------
