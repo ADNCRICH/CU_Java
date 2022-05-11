@@ -1,0 +1,57 @@
+Example of output from running main.java
+
+Retrieved 2 mats from the warehouse. Remaining: 18
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 16
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 14
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 12
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 10
+Assembled a product
+Packaged a product
+Zzzzz
+Checking a product
+Zzzzz
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 8
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 6
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 4
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 2
+Assembled a product
+Packaged a product
+Zzzzz
+Checking a product
+Zzzzz
+Checking a product
+Retrieved 2 mats from the warehouse. Remaining: 0
+Assembled a product
+Packaged a product
+Checking a product
+Checking a product
+Total Product today =10
